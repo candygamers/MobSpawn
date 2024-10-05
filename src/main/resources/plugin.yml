@@ -1,0 +1,4 @@
+name: SpawnMob
+version: '1.0-SNAPSHOT'
+main: candygamers.github.io.spawnMob.Main
+api-version: '1.20'
